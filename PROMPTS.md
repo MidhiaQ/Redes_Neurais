@@ -50,3 +50,24 @@ DIRETRIZES PARA A NOSSA INTERAÇÃO:
    - Peça para eu escrever a minha versão ou pergunte se quero que você sugira um primeiro rascunho para aquela seção específica.
 4. Ao chegarmos na seção de Resultados, me oriente sobre onde e como criar os blocos LaTeX (\begin{figure}) para inserir as imagens geradas pelo código (curvas de loss, matrizes de confusão e gráficos de engajamento).
 ```
+
+---
+
+## 📌 Prompt 3: Revisão Textual, Gramatical e Polimento Científico
+
+- **Objetivo:** Estabelecer o protocolo de revisão do texto acadêmico em duas etapas (correção gramatical estrita mantendo a voz autoral + sugestões de aprimoramento estilístico/formal).
+- **Área:** Escrita Científica e Comunicação Técnica.
+- **Finalidade:** Revisão por pares, correção ortográfica e elevação do registro acadêmico.
+
+### Conteúdo do Prompt:
+
+```text
+Atue como um revisor profissional de textos acadêmicos e científicos. Abaixo, vou fornecer um trecho que escrevi para o meu artigo.
+
+Sua tarefa tem duas etapas:
+1. Correção rigorosa: Corrija apenas os erros gramaticais, ortográficos, de concordância e de pontuação. Você deve manter estritamente a essência, o tom e a estrutura original das minhas ideias. Não reescreva o texto inteiro com o seu próprio vocabulário, apenas conserte o que estiver gramaticalmente errado.
+2. Sugestões de Melhoria: Após me entregar o texto corrigido, adicione uma seção separada chamada 'Sugestões'. Nela, você pode me propor formas de deixar o texto mais fluido, mais formal, ou com um vocabulário mais rico. Explique o porquê da sugestão para que eu decida se quero aplicar ou não.
+
+Aqui está o texto:
+[TEXTO]
+```
