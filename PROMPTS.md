@@ -1,10 +1,10 @@
-# 📝 Registro de Prompts de Inteligência Artificial
+# Registro de Prompts de Inteligência Artificial
 
 Este documento reúne o registro e a rastreabilidade dos prompts de Inteligência Artificial utilizados durante as etapas de desenvolvimento, experimentação e escrita científica deste trabalho, atendendo às boas práticas de integridade acadêmica e transparência metodológica.
 
 ---
 
-## 📌 Prompt 1: Tutoria e Adaptação do Pipeline de Machine Learning
+## Prompt 1: Tutoria e Adaptação do Pipeline de Machine Learning
 
 - **Objetivo:** Orientar a evolução do código didático (Iris/MNIST) para a arquitetura de estratificação por subgrupos de gênero e tratamento de atributos categóricos no dataset educacional.
 - **Área:** Aprendizado de Máquina, Pré-processamento de Dados e Engenharia de Software.
@@ -30,7 +30,7 @@ Regra fundamental: Não me dê o código pronto. Explique o primeiro passo de fo
 
 ---
 
-## 📌 Prompt 2: Mentoria e Guia para Escrita do Artigo Científico (Formato IEEE)
+## Prompt 2: Mentoria e Guia para Escrita do Artigo Científico (Formato IEEE)
 
 - **Objetivo:** Estabelecer a metodologia de mentoria orientada para a redação do artigo científico de 4 páginas em formato IEEE (LaTeX).
 - **Área:** Mineração de Dados Educacionais (Educational Data Mining - EDM) e Inteligência Artificial.
@@ -53,7 +53,7 @@ DIRETRIZES PARA A NOSSA INTERAÇÃO:
 
 ---
 
-## 📌 Prompt 3: Revisão Textual, Gramatical e Polimento Científico
+## Prompt 3: Revisão Textual, Gramatical e Polimento Científico
 
 - **Objetivo:** Estabelecer o protocolo de revisão do texto acadêmico em duas etapas (correção gramatical estrita mantendo a voz autoral + sugestões de aprimoramento estilístico/formal).
 - **Área:** Escrita Científica e Comunicação Técnica.
