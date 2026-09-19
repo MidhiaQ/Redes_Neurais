@@ -1,0 +1,38 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Bytecode e Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Kaggle / Credenciais e Caches
+.kaggle/
+kaggle.json
+*.tar.gz
+*.zip
+
+# Arquivos de Dados grandes (opcional para evitar subir bases pesadas)
+# xAPI-Edu-Data.csv
