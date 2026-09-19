@@ -4,11 +4,37 @@ Este documento reúne o registro e a rastreabilidade dos prompts de Inteligênci
 
 ---
 
-## 📌 Prompt 1: Mentoria e Guia para Escrita do Artigo Científico (Formato IEEE)
+## 📌 Prompt 1: Tutoria e Adaptação do Pipeline de Machine Learning
+
+- **Objetivo:** Orientar a evolução do código didático (Iris/MNIST) para a arquitetura de estratificação por subgrupos de gênero e tratamento de atributos categóricos no dataset educacional.
+- **Área:** Aprendizado de Máquina, Pré-processamento de Dados e Engenharia de Software.
+- **Finalidade:** Desenvolvimento técnico e modularização do pipeline.
+
+### Conteúdo do Prompt:
+
+```text
+Atue como meu tutor de Machine Learning. Na aula, eu construí códigos básicos de classificação com Redes Neurais (MLP) baseados nos exemplos da Íris e do MNIST, onde treinamos um único modelo para o conjunto de dados inteiro.
+
+Agora, vou adaptar a base desse código para o meu projeto, mas com um acréscimo central: preciso separar meu dataset educacional em dois subgrupos (Feminino e Masculino) e treinar um modelo para cada um, para poder compará-los.
+
+Por favor, me ensine passo a passo como evoluir o código da aula para essa nova estrutura. Quero que você me guie nas seguintes etapas:
+
+Como usar o Pandas para dividir o dataset original nesses dois grupos distintos.
+
+Como tratar as variáveis categóricas para que a rede neural consiga processá-las.
+
+Como criar uma função (def) para encapsular a montagem e o treinamento da rede, para que eu não precise copiar e colar o mesmo código duas vezes.
+
+Regra fundamental: Não me dê o código pronto. Explique o primeiro passo de forma simples, mostre como começar a escrever.
+```
+
+---
+
+## 📌 Prompt 2: Mentoria e Guia para Escrita do Artigo Científico (Formato IEEE)
 
 - **Objetivo:** Estabelecer a metodologia de mentoria orientada para a redação do artigo científico de 4 páginas em formato IEEE (LaTeX).
 - **Área:** Mineração de Dados Educacionais (Educational Data Mining - EDM) e Inteligência Artificial.
-- **Data de Aplicação:** 19 de Setembro de 2026.
+- **Finalidade:** Estruturação da comunicação científica e discussão de resultados.
 
 ### Conteúdo do Prompt:
 
